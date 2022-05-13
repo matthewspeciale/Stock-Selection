@@ -1,0 +1,242 @@
+﻿Symbol,Company name
+A,Agilent Technologies
+AAPL,Apple
+ABC,AmerisourceBergen
+ABT,Abbott
+ADBE,Adobe
+ADI,Analog Devices
+ADM,ADM
+ADP,ADP
+ADSK,Autodesk
+AEE,Ameren
+AEP,American Electric Power
+AES,AES
+AFL,Aflac
+AIG,AIG
+ALL,Allstate
+AMAT,Applied Materials
+AMD,AMD
+AMGN,Amgen
+AMP,Ameriprise Financial
+AMZN,Amazon
+AON,Aon
+APA,APA Corporation
+APD,Air Products
+AVY,Avery Dennison
+AXP,American Express
+AZO,AutoZone
+BA,Boeing
+BAC,Bank of America
+BAX,Baxter
+BBWI,Bath & Body Works
+BBY,Best Buy
+BDX,Becton Dickinson
+BEN,Franklin Templeton
+BF.B,Brown–Forman
+BIIB,Biogen
+BK,BNY Mellon
+BLL,Ball
+BMY,Bristol Myers Squibb
+BSX,Boston Scientific
+C,Citigroup
+CAG,Conagra Brands
+CAH,Cardinal Health
+CAT,Caterpillar
+CCL,Carnival
+CI,Cigna
+CINF,Cincinnati Financial
+CL,Colgate-Palmolive
+CLX,Clorox
+CMA,Comerica
+CMCSA,Comcast
+CMI,Cummins
+CMS,CMS Energy
+CNP,CenterPoint Energy
+COF,Capital One
+COP,ConocoPhillips
+COST,Costco
+CPB,Campbell's
+CSCO,Cisco
+CSX,CSX
+CTAS,Cintas
+CTXS,Citrix
+CVS,CVS Health
+CVX,Chevron
+D,Dominion Energy
+DE,Deere & Co.
+DGX,Quest Diagnostics
+DHI,D.R. Horton
+DHR,Danaher
+DIS,Disney
+DOV,Dover
+DRI,Darden
+DTE,DTE
+DUK,Duke Energy
+DVN,Devon
+EA,Electronic Arts
+EBAY,eBay
+ECL,Ecolab
+ED,Con Edison
+EFX,Equifax
+EIX,Edison International
+EMN,Eastman
+EMR,Emerson
+EOG,EOG Resources
+EQR,Equity Residential
+ETN,Eaton
+ETR,Entergy
+EXC,Exelon
+F,Ford
+FCX,Freeport-McMoRan
+FDX,FedEx
+FE,FirstEnergy
+FISV,Fiserv
+FITB,Fifth Third Bank
+GD,General Dynamics
+GE,GE
+GILD,Gilead
+GIS,General Mills
+GL,Globe Life
+GLW,Corning
+GPC,Genuine Parts
+GS,Goldman Sachs
+GWW,Grainger
+HAL,Halliburton
+HAS,Hasbro
+HBAN,Huntington National Bank
+HD,Home Depot
+HES,Hess
+HIG,Hartford (The)
+HON,Honeywell
+HPQ,HP
+HSY,Hershey's
+IBM,IBM
+IFF,International Flavors & Fragrances
+INTC,Intel
+INTU,Intuit
+IP,International Paper
+IPG,Interpublic Group
+ITW,Illinois Tool Works
+JNJ,Johnson & Johnson
+JPM,JPMorgan Chase
+K,Kellogg's
+KEY,KeyCorp
+KLAC,KLA
+KMB,Kimberly-Clark
+KO,Coca-Cola
+KR,Kroger
+L,Loews Corporation
+LEN,Lennar
+LH,LabCorp
+LIN,Linde
+LLY,Lilly
+LMT,Lockheed Martin
+LNC,Lincoln Financial
+LOW,Lowe's
+LUMN,Lumen
+LUV,Southwest Airlines
+MAR,Marriott International
+MAS,Masco
+MCD,McDonald's
+MCK,McKesson
+MCO,Moody's
+MDT,Medtronic
+MET,MetLife
+MKC,McCormick
+MMC,Marsh & McLennan
+MMM,3M
+MO,Altria
+MRK,Merck
+MRO,Marathon Oil
+MS,Morgan Stanley
+MSFT,Microsoft
+MSI,Motorola Solutions
+MTB,M&T Bank
+MU,Micron
+NEE,NextEra Energy
+NEM,Newmont
+NI,NiSource
+NKE,Nike
+NLOK,NortonLifeLock
+NOC,Northrop Grumman
+NSC,Norfolk Southern
+NTAP,NetApp
+NTRS,Northern Trust
+NUE,Nucor
+NVDA,Nvidia
+NWL,Newell Brands
+OMC,Omnicom Group
+ORCL,Oracle
+OXY,Occidental Petroleum
+PAYX,Paychex
+PCAR,Paccar
+PEG,PSEG
+PEP,PepsiCo
+PFE,Pfizer
+PFG,Principal
+PG,Procter & Gamble
+PGR,Progressive
+PH,Parker
+PHM,PulteGroup
+PKI,PerkinElmer
+PLD,Prologis
+PNC,PNC Financial Services
+PNW,Pinnacle West
+PPG,PPG Industries
+PPL,PPL
+PRU,Prudential
+PSA,Public Storage
+QCOM,Qualcomm
+RF,Regions
+RHI,Robert Half
+ROK,Rockwell Automation
+RTX,Raytheon Technologies
+SBUX,Starbucks
+SCHW,Charles Schwab
+SEE,Sealed Air
+SHW,Sherwin-Williams
+SLB,Schlumberger
+SNA,Snap-on
+SO,Southern Company
+SPG,Simon
+SPGI,S&P Global
+SRE,Sempra Energy
+STT,State Street
+STZ,Constellation Brands
+SWK,Stanley Black & Decker
+SYK,Stryker
+SYY,Sysco
+T,AT&T
+TAP,Molson Coors
+TFC,Truist
+TGT,Target
+TJX,TJX Companies
+TPR,Tapestry
+TROW,T. Rowe Price
+TRV,Travelers
+TSN,Tyson
+TXN,Texas Instruments
+TXT,Textron
+UNH,UnitedHealth Group
+UNP,Union Pacific
+UPS,United Parcel Service
+USB,U.S. Bank
+VFC,VF Corporation
+VLO,Valero
+VMC,Vulcan Materials
+VNO,Vornado Realty Trust
+VTRS,Viatris
+VZ,Verizon
+WAT,Waters
+WBA,Walgreens Boots Alliance
+WFC,Wells Fargo
+WHR,Whirlpool
+WM,Waste Management
+WMB,Williams
+WMT,Walmart
+WY,Weyerhaeuser
+XEL,Xcel Energy
+XOM,ExxonMobil
+YUM,Yum! Brands
+ZBH,Zimmer Biomet
+ZION,Zions Bancorp
